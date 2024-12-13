@@ -1,0 +1,30 @@
+1-Why does defining a custom constructor suppress the default constructor in C#?
+because if there custom ctor the compiler does not automatically generate a default constructor
+2-How does method overloading improve code readability and reusability?
+Overloading allows methods that perform similar or related tasks to share the same name, making the code easier to read and understand.
+3-What is the purpose of constructor chaining in inheritance?
+Ensure Proper Initialization of Parent Class and also 
+avoid code redundancy
+4-Why is ToString() often overridden in custom classes?
+to show detailed information about class
+5-Why can't you create an instance of an interface directly?
+Because methods in it doesn't have a body 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
